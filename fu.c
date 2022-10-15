@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+//#include <stdio.h>
 //int main()
 //{
 //    int a[5][5];
@@ -173,4 +173,3 @@
 //	}
 //	return 0;
 //}
-//
